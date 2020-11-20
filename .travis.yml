@@ -19,4 +19,4 @@ deploy:
   script:
     docker push joffreybvn/api-mathieu:latest;
   on:
-    branch: main
+    branch: master
